@@ -9,12 +9,11 @@
     "web-vitals": "^2.1.4"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git"
+    "type": "git"
   },
-  "author": "Pranay Gupta",
+  "author": "Sayandeep Paul",
   "bugs": {
-    "url": "https://github.com/thepranaygupta/react-tailwind-css-starter-pack/issues"
+    "url": "https://github.com/sayandeeppaul/react-tailwind-starter-pack.git"
   },
   "scripts": {
     "start": "react-scripts start",
